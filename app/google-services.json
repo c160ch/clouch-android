@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "712578741615",
+    "project_id": "clouch-669fd",
+    "storage_bucket": "clouch-669fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712578741615:android:caa8bdbf432d81fcf5e49a",
+        "android_client_info": {
+          "package_name": "com.clouch.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712578741615-c6go9sbvnaetqvth0r4pc311trj61cui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUQy5Fi9BmAakqcA-iAakY4wqVViAXOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712578741615-c6go9sbvnaetqvth0r4pc311trj61cui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "712578741615-msem7sb8lu1mah6j96cfnkbu1bs5klka.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clouch.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
